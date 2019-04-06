@@ -1,5 +1,5 @@
 {
-  "name": "confit",
+  "name": "@atelierfabien/confit",
   "version": "1.2.0",
   "description": "Environment-aware configuration.",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/krakenjs/confit.git"
+    "url": "git://github.com/fabien/confit.git"
   },
   "keywords": [
     "application",
